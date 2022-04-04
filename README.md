@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Instuctions to run project in dev environment
+
+Pre-Req: You must have node.js installed in your system.
+Open the terminal, in project directory.
+Run npm install, this will install all the node modules, and load dependencies.
+Run npm start, project should be up and running.
+
 ## Available Scripts
 
 In the project directory, you can run:
